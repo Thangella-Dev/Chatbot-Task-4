@@ -1,4 +1,4 @@
-# Chatbot‑V4 Task 4 (VoiceFlow)
+# Chatbot‑V4 Task-4 (VoiceFlow)
 
 VoiceFlow is a local-first delivery-assistant chatbot with a premium floating widget (text + mic). It uses a **Node.js/Express** backend and a **PostgreSQL** knowledge base to answer delivery FAQs (deliveries, items, hours, tracking, payments).
 
